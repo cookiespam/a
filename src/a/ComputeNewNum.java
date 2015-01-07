@@ -10,7 +10,7 @@ public class ComputeNewNum {
 		Scanner sc = new Scanner(System.in);
 		for (int i = 0; i < arr.length; i++)
 	    {
-	        System.out.print("Please enter 6 numbers: ");
+	        System.out.print("Plase enter 6 numbers: ");
 	        arr[i] = sc.nextInt();	       
 	    }
 		
